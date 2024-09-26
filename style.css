@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.invitation-card {
+    width: 500px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.header p {
+    font-size: 18px;
+    color: #666;
+}
+
+.couple-info {
+    margin-top: 20px;
+}
+
+.couple-info h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.couple-info p {
+    font-size: 18px;
+    color: #666;
+}
+
+.couple-info span {
+    font-weight: bold;
+}
+
+.wedding-details {
+    margin-top: 20px;
+}
+
+.wedding-details h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.wedding-details p {
+    font-size: 18px;
+    color: #666;
+}
+
+.wedding-details span {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer p {
+    font-size: 18px;
+    color: #666;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
